@@ -1,5 +1,5 @@
 
---This module uses a custom module loader called 'OpenPackages' made by me (krichi), you can see if its working or not by joining to the game with the provided link (please press quick join to be teleported to the main game place)
+--This module uses a custom module loader called 'OpenPackages' made by me (krichi), you can see if its working or not by joining to the game with the provided link in the application (please press quick join to be teleported to the main game place)
 
 local ReplicatedStorage = game:GetService('ReplicatedStorage')
 local Players = game:GetService('Players')
